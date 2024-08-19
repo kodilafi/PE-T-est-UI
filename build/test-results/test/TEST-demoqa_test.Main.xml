@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demoqa_test.Main" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-08-19T11:01:11" hostname="DESKTOP-FL91MBP" time="34.678">
+  <properties/>
+  <testcase name="TextBox()" classname="demoqa_test.Main" time="5.674"/>
+  <testcase name="WebTablesCreate()" classname="demoqa_test.Main" time="7.496"/>
+  <testcase name="RadioButton()" classname="demoqa_test.Main" time="3.525"/>
+  <testcase name="WebTablesDelete()" classname="demoqa_test.Main" time="2.84"/>
+  <testcase name="WebTablesEdit()" classname="demoqa_test.Main" time="7.417"/>
+  <testcase name="CheckBox()" classname="demoqa_test.Main" time="4.048"/>
+  <testcase name="Buttons()" classname="demoqa_test.Main" time="3.545"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Phaincat Epwell\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Phaincat Epwell\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Phaincat Epwell\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Phaincat Epwell\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Phaincat Epwell\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Phaincat Epwell\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Phaincat Epwell\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+]]></system-err>
+</testsuite>
